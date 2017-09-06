@@ -1,4 +1,4 @@
-##Rene's Request##
+
 #function for creating and expanding dataset
 dataEXP <- function(multiply , data){
     df <- data.frame()
